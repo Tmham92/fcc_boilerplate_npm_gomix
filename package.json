@@ -4,9 +4,10 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "
+	"author": {
 	"name": "Tobias Ham",
 	"email": "tmham92@gmail.com
+	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
